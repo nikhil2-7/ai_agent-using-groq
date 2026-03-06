@@ -2,3 +2,4 @@ GenAi/
 .env
 frontend.py
 __pycache__/
+chat_history.json
